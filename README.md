@@ -1,3 +1,2 @@
 # MyFirstRepository
-hello
-hello2
+hai
